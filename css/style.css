@@ -32,6 +32,7 @@ h1{
     float: left;
     width: 370px;
     margin: 10px;
+    margin-bottom: 2.3rem;
     
     
 }
@@ -53,3 +54,4 @@ img{
 .email{
     color: #339ed0;
 }
+
