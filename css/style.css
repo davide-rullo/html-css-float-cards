@@ -25,3 +25,27 @@ h1{
     text-align: center;
     padding-bottom: 1.5rem;
 }
+
+.col{
+    background-color: #0f0e17;
+    color: white;
+    float: left;
+    width: calc(100% /3);
+    
+    
+}
+img{
+    max-width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.card_content {
+ 
+}
+
+.card_content h4, .card_content p{
+    padding-top: 0.6rem;
+    padding-left: 7rem;
+    
+}
